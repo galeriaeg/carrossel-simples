@@ -1,0 +1,6 @@
+.meuCarrossel{
+	transition:0.3s;
+	opacity:0;
+	margin:0 auto;
+	display:block;
+}
