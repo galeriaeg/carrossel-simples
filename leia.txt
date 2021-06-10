@@ -1,0 +1,20 @@
+Carrossel simples
+feito em JS+HTML+CSS
+
+1- Para personalizar seu Carrossel bastar informar o caminho das suas imagens no array 'imagem[]'.
+Por padrão as imagens que vão compor o Carrossel estão em uma pasta chamada 'i', este caminho pode 
+ser alterado para a sua necessidade.
+
+2- Para mudar o tempo de transição entre uma imagem e outra mude o valor da variável 'time'.
+Por padrão está com valor 8000 (em Milissegundos, obrigatoriamente!) que representa 8 segundos.
+
+3- O bloco de códigos com o array das imagens, o tempo de transição e a chamada do arquivo 'carrossel.js' 
+deve ser colado no final, antes da tag </body>.
+
+4- Na tag <body> adicione o evento 'onload' chamando a função 'carrossel();'
+
+
+**************************
+AUTOR: ALEXANDRE HENRIQUE
+**************************
+
